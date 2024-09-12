@@ -1,0 +1,37 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+allure-pytest = "*"
+allure-python-commons = "*"
+enum34 = "*"
+execnet = "*"
+namedlist = "*"
+openapi-codec = "*"
+packaging = "*"
+pluggy = "*"
+py = "*"
+pyparsing = "*"
+pytest = "*"
+pytest-forked = "*"
+pytest-html = "*"
+pytest-metadata = "*"
+pytest-ordering = "*"
+pytest-xdist = "*"
+requests = "*"
+selenium = "*"
+wcwidth = "*"
+boto3 = "*"
+langdetect = "*"
+webdriver-auto-update = "*"
+pytz = "*"
+piexif = "*"
+webdriver-manager = "*"
+exceptiongroup = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.*"
